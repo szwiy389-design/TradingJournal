@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/yoyo33/Desktop/TradingJournal/**)",
+      "Bash(find /Users/yoyo33/TradingJournal -name *.xcstrings -o -name *.strings -o -name Localizable*)"
+    ]
+  }
+}

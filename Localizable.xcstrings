@@ -1,0 +1,1153 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+
+    "Trading Journal" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "יומן מסחר" } }
+      }
+    },
+
+    "Dashboard" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "לוח מחוונים" } }
+      }
+    },
+
+    "Trades" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עסקאות" } }
+      }
+    },
+
+    "Journal" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "יומן" } }
+      }
+    },
+
+    "Atlas" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אטלס" } }
+      }
+    },
+
+    "Settings" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הגדרות" } }
+      }
+    },
+
+    "Period" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "תקופה" } }
+      }
+    },
+
+    "Today" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "היום" } }
+      }
+    },
+
+    "Week" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "שבוע" } }
+      }
+    },
+
+    "Month" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "חודש" } }
+      }
+    },
+
+    "All Time" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "כל הזמנים" } }
+      }
+    },
+
+    "Net P&L" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח/הפסד נטו" } }
+      }
+    },
+
+    "Gross P&L" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח/הפסד גולמי" } }
+      }
+    },
+
+    "Win Rate" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אחוז הצלחה" } }
+      }
+    },
+
+    "Profit Factor" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מכפיל רווח" } }
+      }
+    },
+
+    "Avg Win" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח ממוצע" } }
+      }
+    },
+
+    "Avg Loss" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הפסד ממוצע" } }
+      }
+    },
+
+    "Avg Daily P&L" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח/הפסד יומי ממוצע" } }
+      }
+    },
+
+    "Max Drawdown" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ירידה מקסימלית" } }
+      }
+    },
+
+    "Largest Win" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח גדול ביותר" } }
+      }
+    },
+
+    "Largest Loss" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הפסד גדול ביותר" } }
+      }
+    },
+
+    "Expectancy" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "תוחלת" } }
+      }
+    },
+
+    "Risk/Reward" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "סיכון/תשואה" } }
+      }
+    },
+
+    "Equity Curve" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מאזן מצטבר" } }
+      }
+    },
+
+    "Daily P&L" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח/הפסד יומי" } }
+      }
+    },
+
+    "P&L by Hour" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח/הפסד לפי שעה" } }
+      }
+    },
+
+    "Setup Performance" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ביצועים לפי אסטרטגיה" } }
+      }
+    },
+
+    "No setups defined yet" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "לא הוגדרו אסטרטגיות עדיין" } }
+      }
+    },
+
+    "Add your first setup" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הוסף את האסטרטגיה הראשונה" } }
+      }
+    },
+
+    "Daily Loss Limit Reached" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הגעת לגבול ההפסד היומי" } }
+      }
+    },
+
+    "Stop trading and protect your capital." : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הפסק לסחור והגן על ההון שלך." } }
+      }
+    },
+
+    "Today's P&L" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח/הפסד של היום" } }
+      }
+    },
+
+    "Limit" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "גבול" } }
+      }
+    },
+
+    "Take a break. Review your trades in the journal. Come back tomorrow." : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "קח הפסקה. בחן את העסקאות שלך ביומן. חזור מחר." } }
+      }
+    },
+
+    "Weekly Recap" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "סיכום שבועי" } }
+      }
+    },
+
+    "No trading activity this week." : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אין פעילות מסחר השבוע." } }
+      }
+    },
+
+    "Discipline Score" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ציון משמעת" } }
+      }
+    },
+
+    "Excellent" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מצוין" } }
+      }
+    },
+
+    "Needs work" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "דורש שיפור" } }
+      }
+    },
+
+    "Poor" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "גרוע" } }
+      }
+    },
+
+    "Best Trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עסקה הטובה ביותר" } }
+      }
+    },
+
+    "Worst Trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "העסקה הגרועה ביותר" } }
+      }
+    },
+
+    "Gross P / Gross L" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח גולמי / הפסד גולמי" } }
+      }
+    },
+
+    "Per winning trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "לעסקה מנצחת" } }
+      }
+    },
+
+    "Per losing trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "לעסקה מפסידה" } }
+      }
+    },
+
+    "Per trading day" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ליום מסחר" } }
+      }
+    },
+
+    "Peak to trough" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מפסגה לשפל" } }
+      }
+    },
+
+    "Single trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עסקה בודדת" } }
+      }
+    },
+
+    "Per trade avg" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ממוצע לעסקה" } }
+      }
+    },
+
+    "Avg win / avg loss" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח ממוצע / הפסד ממוצע" } }
+      }
+    },
+
+    "Search trades" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "חיפוש עסקאות" } }
+      }
+    },
+
+    "No Trades Yet" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אין עסקאות עדיין" } }
+      }
+    },
+
+    "Tap + to log your first futures trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "לחץ + כדי לתעד את העסקה הראשונה שלך" } }
+      }
+    },
+
+    "Log First Trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "תעד עסקה ראשונה" } }
+      }
+    },
+
+    "All" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הכל" } }
+      }
+    },
+
+    "Yesterday" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אתמול" } }
+      }
+    },
+
+    "Edit Trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עריכת עסקה" } }
+      }
+    },
+
+    "New Trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עסקה חדשה" } }
+      }
+    },
+
+    "Cancel" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ביטול" } }
+      }
+    },
+
+    "Update" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עדכן" } }
+      }
+    },
+
+    "Save" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "שמור" } }
+      }
+    },
+
+    "Instrument & Direction" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "נייר ערך וכיוון" } }
+      }
+    },
+
+    "Instrument" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "נייר ערך" } }
+      }
+    },
+
+    "Instrument name" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "שם נייר הערך" } }
+      }
+    },
+
+    "Multiplier" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מכפיל" } }
+      }
+    },
+
+    "Direction" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "כיוון" } }
+      }
+    },
+
+    "Entry Price" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מחיר כניסה" } }
+      }
+    },
+
+    "Exit Price" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מחיר יציאה" } }
+      }
+    },
+
+    "Estimated P&L" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח/הפסד משוער" } }
+      }
+    },
+
+    "Override P&L manually" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הגדר רווח/הפסד ידנית" } }
+      }
+    },
+
+    "Manual P&L" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח/הפסד ידני" } }
+      }
+    },
+
+    "Prices" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מחירים" } }
+      }
+    },
+
+    "Timing" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "תזמון" } }
+      }
+    },
+
+    "Entry Time" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "זמן כניסה" } }
+      }
+    },
+
+    "Exit Time" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "זמן יציאה" } }
+      }
+    },
+
+    "Analysis" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ניתוח" } }
+      }
+    },
+
+    "Setup" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אסטרטגיה" } }
+      }
+    },
+
+    "Emotion" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מצב רגשי" } }
+      }
+    },
+
+    "Grade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ציון" } }
+      }
+    },
+
+    "Notes" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הערות" } }
+      }
+    },
+
+    "Mistakes / Lessons" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "טעויות / לקחים" } }
+      }
+    },
+
+    "Psychology Tags" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "תגיות פסיכולוגיות" } }
+      }
+    },
+
+    "Risk Management (Optional)" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ניהול סיכונים (אופציונלי)" } }
+      }
+    },
+
+    "Risk Management" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ניהול סיכונים" } }
+      }
+    },
+
+    "Stop Loss" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "סטופ לוס" } }
+      }
+    },
+
+    "Take Profit" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "טייק פרופיט" } }
+      }
+    },
+
+    "Commission" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עמלה" } }
+      }
+    },
+
+    "Trade Details" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "פרטי עסקה" } }
+      }
+    },
+
+    "Date" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "תאריך" } }
+      }
+    },
+
+    "R/R Ratio" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "יחס סיכון/תשואה" } }
+      }
+    },
+
+    "Delete Trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מחק עסקה" } }
+      }
+    },
+
+    "This cannot be undone." : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "לא ניתן לבטל פעולה זו." } }
+      }
+    },
+
+    "Delete" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מחק" } }
+      }
+    },
+
+    "Points" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "נקודות" } }
+      }
+    },
+
+    "Contracts" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "חוזים" } }
+      }
+    },
+
+    "Duration" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "משך" } }
+      }
+    },
+
+    "Commissions" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עמלות" } }
+      }
+    },
+
+    "No Journal Entries" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אין רשומות ביומן" } }
+      }
+    },
+
+    "Write a pre-market plan and post-market review to improve your trading" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "כתוב תוכנית טרום-מסחר וסקירה לאחר המסחר לשיפור הביצועים" } }
+      }
+    },
+
+    "Write Today's Journal" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "כתוב יומן להיום" } }
+      }
+    },
+
+    "Write today's journal" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "כתוב את יומן היום" } }
+      }
+    },
+
+    "Previous Entries" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רשומות קודמות" } }
+      }
+    },
+
+    "Edit Journal" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עריכת יומן" } }
+      }
+    },
+
+    "Daily Journal" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "יומן יומי" } }
+      }
+    },
+
+    "Date & Overview" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "תאריך וסקירה" } }
+      }
+    },
+
+    "Market Bias" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "כיוון השוק" } }
+      }
+    },
+
+    "Mental State" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מצב נפשי" } }
+      }
+    },
+
+    "Key Levels" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רמות מפתח" } }
+      }
+    },
+
+    "Pre-Market Plan" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "תוכנית טרום-מסחר" } }
+      }
+    },
+
+    "Pre-Market" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "טרום-מסחר" } }
+      }
+    },
+
+    "Post-Market Review" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "סקירה לאחר המסחר" } }
+      }
+    },
+
+    "Lessons Learned" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "לקחים שנלמדו" } }
+      }
+    },
+
+    "Post-Market" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "לאחר-מסחר" } }
+      }
+    },
+
+    "Day's Trades" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עסקאות היום" } }
+      }
+    },
+
+    "Terrible" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "גרוע מאוד" } }
+      }
+    },
+
+    "Okay" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "בסדר" } }
+      }
+    },
+
+    "Good" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "טוב" } }
+      }
+    },
+
+    "Great" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מצוין" } }
+      }
+    },
+
+    "Trade Defaults" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ברירות מחדל לעסקאות" } }
+      }
+    },
+
+    "Default Instrument" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "נייר ערך ברירת מחדל" } }
+      }
+    },
+
+    "Default Commission ($)" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עמלה ברירת מחדל ($)" } }
+      }
+    },
+
+    "Account" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "חשבון" } }
+      }
+    },
+
+    "Account Type" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "סוג חשבון" } }
+      }
+    },
+
+    "Personal" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אישי" } }
+      }
+    },
+
+    "Prop Firm" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "פרופ פירם" } }
+      }
+    },
+
+    "Initial Capital ($)" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הון ראשוני ($)" } }
+      }
+    },
+
+    "Max Drawdown ($)" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ירידה מקסימלית ($)" } }
+      }
+    },
+
+    "Return on Account" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "תשואה על החשבון" } }
+      }
+    },
+
+    "Daily Loss Limit ($)" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "גבול הפסד יומי ($)" } }
+      }
+    },
+
+    "My Setups" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "האסטרטגיות שלי" } }
+      }
+    },
+
+    "Swipe left to delete. \"Other\" is always available as a fallback." : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "החלק שמאלה למחיקה. \"אחר\" תמיד זמין כגיבוי." } }
+      }
+    },
+
+    "New setup name…" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "שם אסטרטגיה חדשה…" } }
+      }
+    },
+
+    "Overview" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "סקירה כללית" } }
+      }
+    },
+
+    "Total Trades" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "סה\"כ עסקאות" } }
+      }
+    },
+
+    "Journal Entries" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רשומות יומן" } }
+      }
+    },
+
+    "Trading Days" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ימי מסחר" } }
+      }
+    },
+
+    "All-Time P&L" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רווח/הפסד כולל" } }
+      }
+    },
+
+    "Data" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "נתונים" } }
+      }
+    },
+
+    "Export Trades as CSV" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ייצא עסקאות כ-CSV" } }
+      }
+    },
+
+    "Delete All Data" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מחק את כל הנתונים" } }
+      }
+    },
+
+    "About" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אודות" } }
+      }
+    },
+
+    "App" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אפליקציה" } }
+      }
+    },
+
+    "Version" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "גרסה" } }
+      }
+    },
+
+    "Futures Trading Journal" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "יומן מסחר חוזים עתידיים" } }
+      }
+    },
+
+    "Delete Everything" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מחק הכל" } }
+      }
+    },
+
+    "This Week" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "השבוע" } }
+      }
+    },
+
+    "This Month" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "החודש" } }
+      }
+    },
+
+    "Export CSV" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ייצוא CSV" } }
+      }
+    },
+
+    "Done" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "סיום" } }
+      }
+    },
+
+    "Share / Save" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "שתף / שמור" } }
+      }
+    },
+
+    "TradingJournal Export" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ייצוא יומן מסחר" } }
+      }
+    },
+
+    "Your AI trading psychology coach.\nAsk me anything about your performance." : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "המאמן הפסיכולוגי שלך למסחר בבינה מלאכותית.\nשאל אותי כל שאלה על הביצועים שלך." } }
+      }
+    },
+
+    "Suggestions" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הצעות" } }
+      }
+    },
+
+    "Ask Atlas…" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "שאל את אטלס…" } }
+      }
+    },
+
+    "Atlas is thinking…" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אטלס חושב…" } }
+      }
+    },
+
+    "Clear" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "נקה" } }
+      }
+    },
+
+    "Anthropic API Key" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מפתח API של Anthropic" } }
+      }
+    },
+
+    "Your key is stored locally in UserDefaults and never sent anywhere except Anthropic's API." : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "המפתח שלך מאוחסן מקומית ב-UserDefaults ולא נשלח לשום מקום חוץ מה-API של Anthropic." } }
+      }
+    },
+
+    "Atlas API Key" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מפתח API של אטלס" } }
+      }
+    },
+
+    "Long" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "לונג" } }
+      }
+    },
+
+    "Short" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "שורט" } }
+      }
+    },
+
+    "Bullish" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "שורי" } }
+      }
+    },
+
+    "Bearish" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "דובי" } }
+      }
+    },
+
+    "Neutral" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ניטרלי" } }
+      }
+    },
+
+    "Calm" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "רגוע" } }
+      }
+    },
+
+    "Confident" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "בטוח בעצמו" } }
+      }
+    },
+
+    "Anxious" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "חרד" } }
+      }
+    },
+
+    "Fearful" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מפוחד" } }
+      }
+    },
+
+    "Greedy" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "תאוותני" } }
+      }
+    },
+
+    "Frustrated" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מתוסכל" } }
+      }
+    },
+
+    "FOMO" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "FOMO" } }
+      }
+    },
+
+    "Revenge Trading" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מסחר נקמה" } }
+      }
+    },
+
+    "Greed" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "חמדנות" } }
+      }
+    },
+
+    "Early Exit" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "יציאה מוקדמת" } }
+      }
+    },
+
+    "Hesitation" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "היסוס" } }
+      }
+    },
+
+    "Over-trading" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מסחר יתר" } }
+      }
+    },
+
+    "Disciplined" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ממושמע" } }
+      }
+    },
+
+    "Patient" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "סבלני" } }
+      }
+    },
+
+    "Followed Plan" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "פעל לפי התוכנית" } }
+      }
+    },
+
+    "Perfect Entry" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "כניסה מושלמת" } }
+      }
+    },
+
+    "Negative" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "שלילי" } }
+      }
+    },
+
+    "Positive" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "חיובי" } }
+      }
+    },
+
+    "Perfect execution, textbook trade" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ביצוע מושלם, עסקה לפי הספר" } }
+      }
+    },
+
+    "Good trade, followed rules" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "עסקה טובה, פעל לפי הכללים" } }
+      }
+    },
+
+    "Decent, minor deviations" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "סביר, סטיות קלות" } }
+      }
+    },
+
+    "Mediocre, several mistakes" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "בינוני, מספר טעויות" } }
+      }
+    },
+
+    "Poor execution" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "ביצוע גרוע" } }
+      }
+    },
+
+    "Broke trading rules" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "הפר את כללי המסחר" } }
+      }
+    },
+
+    "Bias" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "כיוון" } }
+      }
+    },
+
+    "Other" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "אחר" } }
+      }
+    },
+
+    "Custom" : {
+      "localizations" : {
+        "he" : { "stringUnit" : { "state" : "translated", "value" : "מותאם אישית" } }
+      }
+    }
+
+  },
+  "version" : "1.0"
+}
