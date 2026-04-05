@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-// Axios instance — Vite proxies /api and /auth to localhost:3001
 const api = axios.create({
+  baseURL: import.meta.env.VITE_API_URL || '',
   withCredentials: true,
   headers: { 'Content-Type': 'application/json' },
 });
