@@ -5,8 +5,6 @@ import passport from 'passport';
 import { Strategy as GoogleStrategy } from 'passport-google-oauth20';
 import { PrismaClient } from '@prisma/client';
 import dotenv from 'dotenv';
-import path from 'path';
-import ConnectSQLite from 'connect-sqlite3';
 
 import authRouter from './routes/auth';
 import expensesRouter from './routes/expenses';
@@ -18,7 +16,6 @@ dotenv.config();
 
 const app = express();
 const prisma = new PrismaClient();
-const SQLiteStore = ConnectSQLite(session);
 
 // CORS - must be first
 app.use(
@@ -36,10 +33,6 @@ app.use(express.urlencoded({ extended: true }));
 // Session configuration
 app.use(
   session({
-    store: new (SQLiteStore as any)({
-      db: 'sessions.db',
-      dir: path.join(__dirname, '..'),
-    }),
     secret: process.env.SESSION_SECRET || 'dev-secret-change-me',
     resave: false,
     saveUninitialized: false,
